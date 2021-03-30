@@ -23,6 +23,7 @@ public class TransposMatrix {
             Sysytem.out.print(transpose[i][j] + "\t");
           }
           System.out.println();
+          System.out.println("Ardi Kusuma Bahari");
          }
       }
     }

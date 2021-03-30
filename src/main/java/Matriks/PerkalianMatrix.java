@@ -31,6 +31,7 @@ if (A[0].length--B.length) {
     } 
     else {
       System.out.println("Ukuran kolom A tidak sama dengan baris B")
+    System.out.println("Ardi Kusuma Bahari");
     }
   }
 }

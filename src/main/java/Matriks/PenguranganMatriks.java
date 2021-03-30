@@ -17,6 +17,7 @@ public class PenguranganMatriks {
     for (i = 0; i < m; i++) {
       for (j = 0; j < n; j++) {
         matriks1[i][j] = scan.nextInt();
+    System.out.println("Ardi Kusuma Bahari");
       }
     }
 

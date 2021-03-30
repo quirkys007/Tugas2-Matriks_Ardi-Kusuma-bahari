@@ -21,6 +21,7 @@ public class ArdiKusuma {
         System.out.println();
         System.out.println(matrix[1][0]);
                  System.out.println();
+            System.out.println("Ardi Kusuma Bahari");
     }
 }
 
